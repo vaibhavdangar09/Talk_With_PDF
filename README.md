@@ -53,7 +53,7 @@ This guide will walk you through the steps to set up a Python 3.11 environment, 
 # Project Description: Talk_with_PDF
 ## Overview:
 
-** Talk_with_PDF is an innovative project leveraging advanced Large Language Models (LLMs) and Generative AI (GenAI) technologies from OpenAI to provide automated, intelligent responses to questions based on the content of a PDF document. This system integrates PDF document analysis with question-answering capabilities, making it a powerful tool for educational purposes, business analysis, and research assistance.**
+**Talk_with_PDF is an innovative project leveraging advanced Large Language Models (LLMs) and Generative AI (GenAI) technologies from OpenAI to provide automated, intelligent responses to questions based on the content of a PDF document. This system integrates PDF document analysis with question-answering capabilities, making it a powerful tool for educational purposes, business analysis, and research assistance.**
 
 Key Features:
 
