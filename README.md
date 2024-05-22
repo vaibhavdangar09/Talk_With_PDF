@@ -59,21 +59,22 @@ Key Features:
 
 1. PDF Upload and Analysis:
 
-Users can upload a PDF document to the system.
-The content of the PDF is processed and analyzed using OpenAI's language model and embeddings.
-CSV-based Question Handling:
+    Users can upload a PDF document to the system.
+    The content of the PDF is processed and analyzed using OpenAI's language model and embeddings.
+    CSV-based Question Handling:
 
 2. Users upload
-a CSV file containing a set of questions related to the uploaded PDF.
-
-Each question in the CSV file is sequentially processed by the system.
+    a CSV file containing a set of questions related to the uploaded PDF.
+    
+    Each question in the CSV file is sequentially processed by the system.
 
 3. Automated Question-Answering:
    
-The system utilizes OpenAI's language model to generate accurate and contextually relevant responses to each question based on the content of the PDF.
-The responses are generated using OpenAI embeddings to ensure high relevance and precision.
+    The system utilizes OpenAI's language model to generate accurate and contextually relevant responses to each question based on the content of the PDF.
+    The responses are generated using OpenAI embeddings to ensure high relevance and precision.
 
 4. Response Storage:
 
-The generated responses are stored in a new CSV file, aligning with the original questions for easy reference and further analysis.
+    The generated responses are stored in a new CSV file, aligning with the original questions for easy reference and further analysis.
+
 ---
