@@ -48,6 +48,7 @@ This guide will walk you through the steps to set up a Python 3.11 environment, 
     ```
     
     This will launch your Streamlit application.
+   
 
 
 # Project Description: Talk_with_PDF
@@ -55,7 +56,7 @@ This guide will walk you through the steps to set up a Python 3.11 environment, 
 
 **Talk_with_PDF is an innovative project leveraging advanced Large Language Models (LLMs) and Generative AI (GenAI) technologies from OpenAI to provide automated, intelligent responses to questions based on the content of a PDF document. This system integrates PDF document analysis with question-answering capabilities, making it a powerful tool for educational purposes, business analysis, and research assistance.**
 
-Key Features:
+**Key Features:**
 
 1. PDF Upload and Analysis:
 
@@ -76,5 +77,8 @@ Key Features:
 4. Response Storage:
 
     The generated responses are stored in a new CSV file, aligning with the original questions for easy reference and further analysis.
+
+**Project UI**
+![Screenshot from 2024-05-08 17-14-51](https://github.com/vaibhavdangar09/Talk_with_PDF/assets/85430510/ee44d91d-6e18-4cb0-a60d-fe123aa100ef)
 
 ---
