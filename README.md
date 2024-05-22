@@ -78,7 +78,12 @@ This guide will walk you through the steps to set up a Python 3.11 environment, 
 
     The generated responses are stored in a new CSV file, aligning with the original questions for easy reference and further analysis.
 
-**Project UI**
+# Project UI 
+
 ![Screenshot from 2024-05-08 17-14-51](https://github.com/vaibhavdangar09/Talk_with_PDF/assets/85430510/ee44d91d-6e18-4cb0-a60d-fe123aa100ef)
+
+![Screenshot from 2024-05-08 17-15-18](https://github.com/vaibhavdangar09/Talk_with_PDF/assets/85430510/38ef2357-55d5-4321-9aad-87aac5cf2d98)
+
+![Screenshot from 2024-05-08 17-16-09](https://github.com/vaibhavdangar09/Talk_with_PDF/assets/85430510/c59b06c3-7e5c-4310-9ac5-da72f4bf7b97)
 
 ---
